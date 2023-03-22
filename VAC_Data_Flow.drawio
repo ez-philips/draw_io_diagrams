@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T14:49:30.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="Zdmx0vTRmomGp-g2j-cZ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T20:33:21.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="u2rdMxGH6EQhSZdehFu7" version="21.0.6" type="github">
   <diagram name="Page-1" id="2rehOZDOLB7oGoRyjfem">
-    <mxGraphModel dx="2027" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,21 +19,19 @@
         <mxCell id="k68854BvRvZbGaNbNRbs-2" value="&lt;b&gt;EMR&lt;br&gt;&lt;/b&gt;Electronic Medical Record System&lt;br&gt;Patient Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="130" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k68854BvRvZbGaNbNRbs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#000000;" parent="1" source="k68854BvRvZbGaNbNRbs-3" target="k68854BvRvZbGaNbNRbs-4" edge="1">
+        <mxCell id="k68854BvRvZbGaNbNRbs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#000000;" parent="1" source="k68854BvRvZbGaNbNRbs-3" target="k68854BvRvZbGaNbNRbs-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="210" y="510" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k68854BvRvZbGaNbNRbs-3" value="&lt;b&gt;Devices&lt;br&gt;&lt;/b&gt;Vital Signs Monitors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="620" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cWXUJNvMqhTuxY0X6Ky5-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="k68854BvRvZbGaNbNRbs-4" target="k68854BvRvZbGaNbNRbs-9" edge="1">
+        <mxCell id="cWXUJNvMqhTuxY0X6Ky5-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="k68854BvRvZbGaNbNRbs-4" target="k68854BvRvZbGaNbNRbs-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k68854BvRvZbGaNbNRbs-4" value="PICCX&lt;br&gt;Capsule" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="315" y="480" width="100" height="60" as="geometry" />
+          <mxGeometry x="160" y="450" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k68854BvRvZbGaNbNRbs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;startArrow=none;" parent="1" source="k68854BvRvZbGaNbNRbs-11" target="k68854BvRvZbGaNbNRbs-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
