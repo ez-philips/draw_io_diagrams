@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T17:07:55.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="ugfd1iM_ltph00fcHChZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T17:18:51.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fkgJdlL55-hNfn6gYU7u" version="22.1.21" type="github">
   <diagram name="Página-1" id="9cR85chl6A048DUXJ38w">
-    <mxGraphModel>
+    <mxGraphModel dx="1218" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="320" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-3" value="Tasy Client App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MRDxFAjD2JG7xq2Fz-pH-4" target="MRDxFAjD2JG7xq2Fz-pH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-4" value="Web Browser" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-6" value="Launchpad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-7" value="Application Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-8" value="Microservices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-9" value="Tasy Server App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-10" value="Database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="340" y="534" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-12" value="External Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="530" y="530" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-17" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-18" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-19" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="539" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-23" value="Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;arcSize=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRDxFAjD2JG7xq2Fz-pH-25" value="Infrastructure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="557" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
