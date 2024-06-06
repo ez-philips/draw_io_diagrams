@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T18:02:50.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kfMu7lTZKU1DjdC8XAxf" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T18:03:53.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="fk40a3FkBpDQjEwqCjqo" version="24.4.13" type="github">
   <diagram name="Page-1" id="rFNN8qEmDHb4V85OfL6x">
     <mxGraphModel dx="3443" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iZ2527w8M4fYvjXvJs2w-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="580" width="1040" height="880" as="geometry" />
+          <mxGeometry x="-260" y="580" width="1040" height="900" as="geometry" />
         </mxCell>
         <mxCell id="iZ2527w8M4fYvjXvJs2w-33" value="Login" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;exitX=0.879;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0038" y="10" relative="1" as="geometry">
@@ -61,7 +61,7 @@
         <mxCell id="iZ2527w8M4fYvjXvJs2w-128" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="iZ2527w8M4fYvjXvJs2w-49">
           <mxGeometry x="45" y="680" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iZ2527w8M4fYvjXvJs2w-51" value=":SDH MS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="iZ2527w8M4fYvjXvJs2w-51" value=":SDH MS*" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="600" width="100" height="840" as="geometry" />
         </mxCell>
         <mxCell id="iZ2527w8M4fYvjXvJs2w-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="iZ2527w8M4fYvjXvJs2w-51">
@@ -319,6 +319,12 @@
             <mxPoint x="-20" y="1400" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iZ2527w8M4fYvjXvJs2w-135" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ2527w8M4fYvjXvJs2w-136" value="* SDH MS: Schematics-DX Handler Microservice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1450" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
