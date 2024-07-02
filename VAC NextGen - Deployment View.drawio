@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T19:58:32.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="SO3COFz32lqwiCKFd__e" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T20:08:00.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pvrocAcfsJC97Ay3Uqqt" version="24.5.4" type="github">
   <diagram name="Página-1" id="KO3hVnnRrnaf3m-cWDOl">
     <mxGraphModel dx="4018" dy="2344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,18 +199,6 @@
         </mxCell>
         <mxCell id="poEvIoC8D7_DHka2bbKh-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png;" parent="9pNa6FQYIfgOJ_LO5Ywo-36" vertex="1">
           <mxGeometry x="93.95000000000005" y="71.44000000000005" width="26.05" height="18.56" as="geometry" />
-        </mxCell>
-        <mxCell id="9pNa6FQYIfgOJ_LO5Ywo-39" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2302" y="712" width="163.75" height="225" as="geometry" />
-        </mxCell>
-        <mxCell id="9pNa6FQYIfgOJ_LO5Ywo-40" value="Patient Monitoring System" style="rounded=0;whiteSpace=wrap;html=1;" parent="9pNa6FQYIfgOJ_LO5Ywo-39" vertex="1">
-          <mxGeometry x="-832" y="85" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9pNa6FQYIfgOJ_LO5Ywo-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" parent="9pNa6FQYIfgOJ_LO5Ywo-39" vertex="1">
-          <mxGeometry x="-797" y="53" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="poEvIoC8D7_DHka2bbKh-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png;" parent="9pNa6FQYIfgOJ_LO5Ywo-39" vertex="1">
-          <mxGeometry x="-738.05" y="126.44000000000005" width="26.05" height="18.56" as="geometry" />
         </mxCell>
         <mxCell id="9pNa6FQYIfgOJ_LO5Ywo-87" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1300" y="767" width="120.00000000000004" height="93.00000000000006" as="geometry" />
