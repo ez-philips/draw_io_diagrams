@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T20:09:16.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="9lCRMkiH7YN2TrOlYMYf" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T12:03:34.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vDfhP2mW4TFVFuM9nRFp" version="24.5.4" type="github">
   <diagram name="Página-1" id="KO3hVnnRrnaf3m-cWDOl">
     <mxGraphModel dx="4018" dy="2344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,6 +513,18 @@
         </mxCell>
         <mxCell id="tlvKwvzxReuPXAUli3c_-2" value="&lt;b&gt;HTTP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="809.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tlvKwvzxReuPXAUli3c_-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1470" y="763" width="120.00000000000004" height="93.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="tlvKwvzxReuPXAUli3c_-5" value="Patient Monitoring System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tlvKwvzxReuPXAUli3c_-4">
+          <mxGeometry y="33" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tlvKwvzxReuPXAUli3c_-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" vertex="1" parent="tlvKwvzxReuPXAUli3c_-4">
+          <mxGeometry x="35" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tlvKwvzxReuPXAUli3c_-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png;" vertex="1" parent="tlvKwvzxReuPXAUli3c_-4">
+          <mxGeometry x="93.95000000000005" y="74.44000000000005" width="26.05" height="18.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
